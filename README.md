@@ -2,48 +2,48 @@
   <img src="diagrams/system-design-github-logo.png" width="350" height="200">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://newsletter.ashishps.com/">Newsletter</a>
+  <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://blog.algomaster.io/">Newsletter</a>
 </p>
 Learn System Design concepts and prepare for interviews using free resources.
 
 ## 📌 System Design Key Concepts
-- [Scalability](https://newsletter.ashishps.com/p/scalability)
+- [Scalability](https://blog.algomaster.io/p/scalability)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
-- [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
-- [ACID Transactions](https://redis.com/glossary/acid-transactions/)
+- [CAP Theorem](https://blog.algomaster.io/p/15f1d791-86ce-40ed-8269-962dbddbefdb)
+- [ACID Transactions](https://blog.algomaster.io/p/ecae03ba-1930-42ef-8796-83e2fa818989)
 - [Consistent Hashing](https://highscalability.com/consistent-hashing-algorithm/)
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
 - [API Design](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f) [Done but Revised it Again]
 - [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
-- [Synchronous vs. asynchronous communications](https://newsletter.ashishps.com/p/aec1cebf-6060-45a7-8e00-47364ca70761)
+- [Synchronous vs. asynchronous communications](https://blog.algomaster.io/p/aec1cebf-6060-45a7-8e00-47364ca70761)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
-- [Batch Processing vs Stream Processing](https://newsletter.ashishps.com/p/d9442268-03d8-4f55-a103-7a3d4fb54661)
+- [Batch Processing vs Stream Processing](https://blog.algomaster.io/p/d9442268-03d8-4f55-a103-7a3d4fb54661)
 - [Fault Tolerance](https://www.cockroachlabs.com/blog/what-is-fault-tolerance/)
 - [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
-- [Service Discovery](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/)
+- [Service Discovery](https://blog.algomaster.io/p/0204da93-f0e9-49b9-a88a-cb20b9931575)
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
-- [Top 15 Tradeoffs](https://newsletter.ashishps.com/p/system-design-top-15-trade-offs)
+- [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
 
 ## 🛠️ System Design Building Blocks
-- [Vertical vs Horizontal Scaling](https://newsletter.ashishps.com/p/system-design-vertical-vs-horizontal-scaling)
-- [Databases](https://newsletter.ashishps.com/p/15-types-of-databases)
+- [Vertical vs Horizontal Scaling](https://blog.algomaster.io/p/system-design-vertical-vs-horizontal-scaling)
+- [Databases](https://blog.algomaster.io/p/15-types-of-databases)
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
 - [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [Distributed Caching](https://redis.com/glossary/distributed-caching/)
-- [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
+- [Load Balancing](https://blog.algomaster.io/p/load-balancing-algorithms-explained-with-code)
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
-- [Database Index](https://newsletter.ashishps.com/p/a-detailed-guide-on-database-indexes)
+- [Database Index](https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes)
 - [Consistency Patterns](https://systemdesign.one/consistency-patterns/)
-- [HeartBeats](https://newsletter.ashishps.com/p/heartbeats-in-distributed-systems)
+- [HeartBeats](https://blog.algomaster.io/p/heartbeats-in-distributed-systems)
 - [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
 - [Idempotency](https://blog.dreamfactory.com/what-is-idempotency/)
 - [Database Scaling](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
 - [Data Replication](https://redis.com/blog/what-is-data-replication/)
 - [Data Redundancy](https://www.egnyte.com/guides/governance/data-redundancy)
-- [Database Sharding](https://newsletter.ashishps.com/p/what-is-database-sharding)
+- [Database Sharding](https://blog.algomaster.io/p/what-is-database-sharding)
 - [Database Architectures](https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/)
 - [Microservices Guidelines](https://newsletter.systemdesign.one/p/netflix-microservices)
 - [Failover](https://avinetworks.com/glossary/failover/)
@@ -53,7 +53,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [Checksum](https://newsletter.ashishps.com/p/6e505422-4291-4b21-99aa-9584c1b0b0b7)
+- [Checksums](https://blog.algomaster.io/p/what-are-checksums)
 
 ## 🖇️ System Design Architectural Patterns
 - [Client-Server Architecture](https://www.redswitches.com/blog/client-server-architecture/)
@@ -66,7 +66,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 ## ✅ How to Answer a System Design Interview Problem
 <img src="diagrams/interview-template.png" width="400" height="250">
 
-### [Read the Full Article](https://newsletter.ashishps.com/p/how-to-answer-a-system-design-interview-problem)
+### [Read the Full Article](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
 
 ## 💻 System Design Interview Problems
 ### Easy
